@@ -7002,6 +7002,7 @@ p.remind-43 {
   outline: none;
   margin-bottom: 35px;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .box-67 .thumbnail-67 {
   font-size: 0;
@@ -7166,7 +7167,7 @@ p.remind-43 {
   display: block;
   transition: 0.25s;
   border: 1px solid rgba(255, 255, 255, 0.3);
-  text: #fff;
+  color: #fff;
 }
 .grid-73 .cell-73.rounded {
   border-radius: 6px;
@@ -7204,6 +7205,7 @@ p.remind-43 {
   outline: none;
   margin-bottom: 25px;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .box-74:hover {
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
@@ -7292,6 +7294,7 @@ p.remind-43 {
   outline: none;
   margin: 10px 0;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .box-77:hover {
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
@@ -7306,6 +7309,7 @@ p.remind-43 {
 .box-77 .thumbnail-77 img {
   border-radius: 6px 6px 0 0;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   transition: 0.5s;
 }
 .box-77 .thumbnail-77.video:after {
